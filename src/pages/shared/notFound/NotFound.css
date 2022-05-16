@@ -1,0 +1,11 @@
+.login {
+    color: #0D6EFD;
+    margin-bottom: 15px;
+}
+
+.error-image {
+    width: 75%;
+    height: 600px;
+    margin: 0 auto;
+    display: block;
+}
