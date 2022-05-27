@@ -45,7 +45,7 @@ const SocialLogin = () => {
                 </button>
                 <button onClick={() => signInWithGithub()} style={{ backgroundColor: '#343D44' }} className='btn w-50 mx-auto d-block my-3'>
                     <img style={{ width: '30px', height: '30px', backgroundColor: 'white', borderRadius: '50%', marginRight: '3px' }} src={githubIcon} alt="" />
-                    <span>Github Sign In</span>
+                    <span className='text-white'>Github Sign In</span>
                 </button>
             </div>
         </div>
